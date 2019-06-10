@@ -4,3 +4,4 @@
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Release\MasterMind.csproj.CoreCompileInputs.cache
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Release\MasterMind.exe
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Release\MasterMind.pdb
+\\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Release\MasterMind.csprojResolveAssemblyReference.cache

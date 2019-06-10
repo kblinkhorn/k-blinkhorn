@@ -11,11 +11,6 @@ namespace MasterMind
         static void Main(string[] args)
         {
 
-            int iMinAnswer = 1111;
-            int iMaxAnswer = 6666;
-            int iMinDigit = 1;
-            int iMaxDigit = 6;
-
             int iNbrGuesses = 10;
 
             bool[] aGuess = { false, false, false, false };

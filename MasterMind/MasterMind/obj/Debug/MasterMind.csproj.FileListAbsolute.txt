@@ -1,7 +1,6 @@
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
-\\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.exe
 \\file-03\users2\kblinkhorn\Visual Studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
